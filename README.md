@@ -20,7 +20,7 @@ Here are the accuracy scores of the models:
 - KNN with Feature Selection[RF]:71%
 - KNN with Feature Selection[gb]: 93%
 
-![Model Accuracy](accuracy of models.png)
+![Model Accuracy](accuracy_of_models.png)
 
 
 ## Usage
