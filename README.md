@@ -6,7 +6,7 @@ This project aims to predict the presence or absence of chronic kidney disease b
 
 ## Description
 
-In this project, we have used a diverse set of machine learning models, including Support Vector Machine (SVM), Random Forest (RF), Decision Tree, and K-Nearest Neighbors (KNN), to build predictive models for chronic kidney disease. Additionally, hyperparameter tuning and feature selection were applied to optimize model performance.
+In this project, we have used a diverse set of machine learning models, including Extra Trees Classifier, Random Forest (RF), Decision Tree, and Light GBM , Logistic Regression to build predictive models for chronic kidney disease. Additionally, hyperparameter tuning and feature selection were applied to optimize model performance.
 
 ## Model Accuracy
 
