@@ -22,7 +22,7 @@ Here are the accuracy scores of the models:
 | ANN                  |              99.00 |         97.33 |                       97.1334 |
 
 
-![Model Accuracy](accuracy_of_models.png)
+![Model Accuracy](accuracy_of_models.png.png)
 
 
 ## Usage
