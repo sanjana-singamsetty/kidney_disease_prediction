@@ -12,13 +12,15 @@ In this project, we have used a diverse set of machine learning models, includin
 
 Here are the accuracy scores of the models:
 
-- SVM Classifier: 97%
-- Random Forest Classifier: 100
-- Decision Tree Classifier: 95
-- KNN Classifier: 71%
-- KNN Classifier-HYPER PARAMTER TUNING : 82%
-- KNN with Feature Selection[RF]:71%
-- KNN with Feature Selection[gb]: 93%
+| Model                | Training Accuracy | Test Accuracy | Average Cross Validation Score |
+|----------------------|-------------------:|--------------:|-------------------------------:|
+| Random Forest        |            99.2078 |       98.9741 |                         98.81 |
+| Extra Trees          |            99.6078 |       99.0741 |                         99.67 |
+| LightGBM             |              99.60 |       98.1481 |                         98.08 |
+| Decision Tree        |            96.4235 |       96.2963 |                         96.40 |
+| Logistic Regression  |              99.20 |       99.0741 |                         98.2  |
+| ANN                  |              99.00 |         97.33 |                       97.1334 |
+
 
 ![Model Accuracy](accuracy_of_models.png)
 
