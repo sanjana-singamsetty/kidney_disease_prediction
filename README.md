@@ -1,5 +1,5 @@
 # kindey_disease_prediction
-Implemented various classification algorithms like svm,rf,decision tree and knn and also performed feauture selection and hyper paramter tuning
+Implemented various classification algorithms like ExtraTrees,rf,decision tree and  LightGBM, and also performed feauture selection and hyper paramter tuning
 # Chronic Kidney Disease Prediction
 
 This project aims to predict the presence or absence of chronic kidney disease based on medical and clinical data. It employs a variety of machine learning algorithms and techniques to achieve accurate predictions.
